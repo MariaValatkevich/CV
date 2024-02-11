@@ -1,0 +1,36 @@
+{
+  "firstName": "Maria",
+  "lastName": "Valatkevich",
+  "position":"Junior QA Engineer",
+  "phoneNumber":"375257633341",
+  "location":"Belarus, Minsk",
+  "hardSkills":"DB, Git, Json, HTML, Postman, SQL, API, CRM, MS Office",
+  "softSkills":"communication, teamwork, adaptability, problem-solving, leadership",
+  "contacts":"375257633341",
+  "languages":"English (Intermediate)",
+  "workExperience":[
+    {
+    "company":"McDonalds",
+    "position":"multiworker",
+    "years":"2018-2020",
+    "responsibilities":[
+      "working with a large number of clients", 
+      "working at the checkout", 
+      "simultaneously performing various tasks"]
+    },
+    {
+    "company":"Lerna",
+    "position":"Credit specialist",
+    "years":"2020-current",
+    "responsibilities":[
+      "working with documents",
+      "working in CRM (amoCRM, Bitrix24)",
+      "making contracts with customers"
+      "financial management"
+      ]      
+    }],
+  "education":"BNTU (manager-economist)",
+  "links":"telegram: https://t.me/mashavalatkevich",
+  "certificates":"BELHARD Academy: Software testing. Professional level",
+  "interests":["reading", "travelling", "song singer", "vine drinker", "guitar player"]
+}
